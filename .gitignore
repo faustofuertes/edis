@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Build / Wrangler (por si un cliente instancia mcp/)
+dist/
+.wrangler/
+.dev.vars
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
