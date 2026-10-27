@@ -134,7 +134,7 @@ Esto no lo fuerza ninguna herramienta: es disciplina. Si encontrás que el dashb
      cuánto explica la IA (nuevo → proactivo; con know-how → on-demand). -->
 
 - **Nombre:** Fausto Fuertes
-- **Nivel de conocimiento de Laburen:** <a confirmar: nuevo | con know-how>
+- **Nivel de conocimiento de Laburen:** con know-how
 
 ---
 
@@ -153,7 +153,7 @@ Un renglón por agente. Al scaffoldear un cliente real se reemplaza este ejemplo
 
 | Repo | Rama de verdad | Qué contiene | Por qué está afuera |
 |------|----------------|--------------|---------------------|
-| `Laburen/eddis-api-worker` | <a confirmar> | <a confirmar: qué hace el worker> | ya existía antes de la casa; worker deployado desde su propio repo |
+| `Laburen/eddis-api-worker` | <a confirmar> | fuera de alcance del agente interview-prep por ahora | ya existía antes de la casa; worker deployado desde su propio repo |
 
 ---
 
